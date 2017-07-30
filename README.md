@@ -22,8 +22,8 @@
 ### Question:
   1. Define difference between rebase and merge ? sometimes merge directly into master file can be disaster because someone may have merge his branch there. Better try rebase? (according to gooogle: https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
-  2. What is a conflict ?
-  3. When do I need a commit ?
+  2. What is a conflict ? When merging branches, there may be some error. They call it conflict
+  3. When do I need a commit ? When your new codes are ready to update the old ones.
 
 ### Addition Reading
   [Learn Git](http://learngitbranching.js.org/)
@@ -34,10 +34,10 @@
   Then we gonna learn the command below:
 
   1. <b>ls</b>: list directory contents, including file `name`, `contents` inside.
-  2. <b>cat</b>: to print file
+  2. <b>cat</b>: to `print` file
   3. <b>rm</b>: to `remove` a file or a category
   4. <b>cat</b>: to view
-  5. <b>echo</b>: to print or to show the file name,but the contents are not included.
+  5. <b>echo</b>: to print or to show the file name, but the contents are not included.
   6. <b>bash_profile</b>: my user profile
 
 ### Question:
